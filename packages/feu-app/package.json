@@ -1,6 +1,6 @@
 {
   "name": "feu-app",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "private": true,
   "description": "app主程序",
   "keywords": [
@@ -31,7 +31,7 @@
     "url": "https://github.com/txiejun/lerna-usage/issues"
   },
   "dependencies": {
-    "feu-tools": "^0.1.6",
-    "feu-ui": "^0.1.6"
+    "feu-tools": "^0.1.7",
+    "feu-ui": "^0.1.7"
   }
 }
