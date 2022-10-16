@@ -1,0 +1,26 @@
+{
+  "name": "feu-test",
+  "version": "0.1.4",
+  "description": "> TODO: description",
+  "author": "chenying36 <chenying36@baidu.com>",
+  "homepage": "https://github.com/txiejun/lerna-usage#readme",
+  "license": "ISC",
+  "main": "lib/feu-test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txiejun/lerna-usage.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/feu-test.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/txiejun/lerna-usage/issues"
+  }
+}
