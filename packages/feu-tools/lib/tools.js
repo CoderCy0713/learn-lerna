@@ -18,7 +18,7 @@ function add(a, b) {
  * @returns {number}
  */
 function min(a, b) {
-    console.log('tools change');
+    console.log('tools change 123');
     console.log("tools库，调用函数min,入参：%d, %d",a ,b)
     return Math.min(a, b);
 }
